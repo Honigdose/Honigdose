@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Honigdose
-- 👀 I’m interested in Minecraft and PixelArt
-- 🌱 I’m currently learning how to mod Minecraft
+Hi, I am Honigdosi. 
 
-<!---
-Honigdose/Honigdose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I like Honey
+- I am a Hobby Artist and a newbie in modding.
+- I am from Germany and my english is very bad. (I am Sorry)
+
+Have a nice Day :D
